@@ -1,7 +1,8 @@
-# Hey! 👋  
-* 17
+## Hey Folks!! 👋  
 * VIT Chennai '29
 * Competitive Programming and Algorithms
+* Tech: C++, Python, Mysql, Pandas, Matlab
+* Into books/mangas/light novels
 * Contact: rohanroy36912@gmail.com  
 
 ## Social(s):
