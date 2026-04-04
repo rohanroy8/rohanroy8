@@ -1,7 +1,7 @@
 ## Hey Folks!! 👋  
 * VIT Chennai '29
-* Competitive Programming and Algorithms
-* Tech: C++, Python, Mysql
+* Interested in Competitive Programming and Algorithms
+* Tech: C++, Python, HTML/CSS, Javascript
 * Contact: rohanroy36912@gmail.com  
 
 ## Social(s):
