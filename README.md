@@ -1,7 +1,7 @@
 ## Hey Folks!! 👋  
 * VIT Chennai '29
 * Interested in Competitive Programming and Algorithms
-* Tech: C++, Python, HTML/CSS, Javascript
+* Language:C/C++, Python, Bash, Javascript
 * Contact: rohanroy36912@gmail.com  
 
 ## Social(s):
